@@ -7,7 +7,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "fa21f0303e3fe54371d3798f80fb9dd131eca33dac942b4d4fcfee6e51efd9e2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+13.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+13.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "cfe492cb2a90d3eff9e4af9f2e777b1d1d9cf9ef"
@@ -17,7 +17,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "bf4e5baaa5c784137540b6197ba9e380810525bfb704544585f41e7a03503e75"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+13.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+13.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "ef1fad96893b09ac5380eedba21325c2e8d10d0a"
@@ -27,7 +27,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "fa21f0303e3fe54371d3798f80fb9dd131eca33dac942b4d4fcfee6e51efd9e2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+13.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+13.asserts.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "cfe492cb2a90d3eff9e4af9f2e777b1d1d9cf9ef"
@@ -37,7 +37,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "bf4e5baaa5c784137540b6197ba9e380810525bfb704544585f41e7a03503e75"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+13.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+13.asserts.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "fe342c35657c4759328f3bb73534571535a47ede"
@@ -47,7 +47,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "09eb0ec7f7ea555e7fdf1d442959d78cf2955eb1b1488ef00c5560e4cafff574"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+14.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+14.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "f3af178cdfb23492c554b464dadd37acf2e3e99b"
@@ -57,7 +57,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "0f487a13f7c3142ecb4332acf9b118c40ebbf44824d4cc0dadb8207fd1ffb33d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+14.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+14.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "fe342c35657c4759328f3bb73534571535a47ede"
@@ -67,7 +67,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "09eb0ec7f7ea555e7fdf1d442959d78cf2955eb1b1488ef00c5560e4cafff574"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+14.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+14.asserts.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "f3af178cdfb23492c554b464dadd37acf2e3e99b"
@@ -77,7 +77,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "0f487a13f7c3142ecb4332acf9b118c40ebbf44824d4cc0dadb8207fd1ffb33d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+14.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+14.asserts.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "044e78d3aba6ca2191be8c50cda24122ca20f00f"
@@ -87,7 +87,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "e73bc5e66c739f92ba52c048efb2ce7d3d4b3dd76066ca48ea0fcdb9d0451783"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+15.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "c304c13e9dcccfd31e74816fdc6716e990314f56"
@@ -97,7 +97,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "679cc1be4faabce2ad063811cb2d4088b06260e5ba45b04273547a637bb94ba7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+15.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+15.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "044e78d3aba6ca2191be8c50cda24122ca20f00f"
@@ -107,7 +107,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "e73bc5e66c739f92ba52c048efb2ce7d3d4b3dd76066ca48ea0fcdb9d0451783"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+15.asserts.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "c304c13e9dcccfd31e74816fdc6716e990314f56"
@@ -117,4 +117,44 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "679cc1be4faabce2ad063811cb2d4088b06260e5ba45b04273547a637bb94ba7"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+0/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+15.asserts.tar.gz"
+[[LLVMDowngrader]]
+arch = "x86_64"
+git-tree-sha1 = "3e216767749ac87b5952754cfe00fe5a39ba089f"
+lazy = true
+llvm_version = "16"
+os = "macos"
+
+    [[LLVMDowngrader.download]]
+    sha256 = "d076620e15acc766cc9f693ec85eb1b5b966e765b72ab5d1e386ae745e35a30f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+16.tar.gz"
+[[LLVMDowngrader]]
+arch = "aarch64"
+git-tree-sha1 = "d9b0599119ebbc48a633f5e44d8eb94618d1363a"
+lazy = true
+llvm_version = "16"
+os = "macos"
+
+    [[LLVMDowngrader.download]]
+    sha256 = "03edb8d31d725b0cff61cb241f3c38839a4a43608aba7a5078e6ca224ea135f4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+16.tar.gz"
+[[LLVMDowngrader]]
+arch = "x86_64"
+git-tree-sha1 = "3e216767749ac87b5952754cfe00fe5a39ba089f"
+lazy = true
+llvm_version = "16.asserts"
+os = "macos"
+
+    [[LLVMDowngrader.download]]
+    sha256 = "d076620e15acc766cc9f693ec85eb1b5b966e765b72ab5d1e386ae745e35a30f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.x86_64-apple-darwin-llvm_version+16.asserts.tar.gz"
+[[LLVMDowngrader]]
+arch = "aarch64"
+git-tree-sha1 = "d9b0599119ebbc48a633f5e44d8eb94618d1363a"
+lazy = true
+llvm_version = "16.asserts"
+os = "macos"
+
+    [[LLVMDowngrader.download]]
+    sha256 = "03edb8d31d725b0cff61cb241f3c38839a4a43608aba7a5078e6ca224ea135f4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.1.0+1/LLVMDowngrader.v0.1.0.aarch64-apple-darwin-llvm_version+16.asserts.tar.gz"
