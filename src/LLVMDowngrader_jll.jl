@@ -7,5 +7,5 @@ Base.include(@__MODULE__, joinpath("..", ".pkg", "platform_augmentation.jl"))
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("LLVMDowngrader")
-JLLWrappers.@generate_main_file("LLVMDowngrader", UUID("f52de702-fb25-5922-94ba-81dd59b07444"))
+JLLWrappers.@generate_main_file("LLVMDowngrader", Base.UUID("f52de702-fb25-5922-94ba-81dd59b07444"))
 end  # module LLVMDowngrader_jll
