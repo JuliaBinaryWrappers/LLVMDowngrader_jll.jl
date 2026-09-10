@@ -6,7 +6,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "10dbcd9dec2140aca68812ea5871dbe1a3619cf390cf447aff157373710bb501"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.aarch64-apple-darwin.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -17,7 +17,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "f3b28820dfbc5c4d57f98e55a740af9c38a8188e32ca21dbd9e01ca329e2d0af"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -28,7 +28,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "93b3f60c9a18483d74a75d558a87064f2e6d3dc99ba2ab8f2f693ab426365ea0"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.aarch64-linux-musl-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "aarch64"
 git-tree-sha1 = "c07c87f1ad27ff59f2d5815b26f94928cbc99865"
@@ -37,7 +37,7 @@ os = "freebsd"
 
     [[LLVMDowngrader.download]]
     sha256 = "52db8a11d0475d2b3642bb20e006477c85c7fddd35babcfeb23c91cc14a7db2a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.aarch64-unknown-freebsd.tar.gz"
 [[LLVMDowngrader]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -49,7 +49,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "f07b6f5992ba1cdf0ce09d6b43b8e05753bc907f4e33627baec21eeda1bcedc8"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -61,7 +61,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "c4ac7d555bf8c557815064b7f91e4e732a9ecc0db8816160800717958e0dcaab"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -73,7 +73,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "077a698dd1be3d281d7dc9a98b0cd917bf808dec9a3b9cfab5c2c5bee3fbd368"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -85,7 +85,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "cf49edd8501d9f38834d11271a0028a9fa407c7b4ad9ff8dea779116929e358a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -96,17 +96,17 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "33af2865369efc66859d9c54d54f664568fe7399a1e0cb0ede3960f507230b4b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.i686-linux-gnu-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "58951d0672559e33bdba7cfe08cfaf3a4e46fdbd"
+git-tree-sha1 = "670ca9b8ad806fb5c37c222327a462930104ac04"
 lazy = true
 os = "windows"
 
     [[LLVMDowngrader.download]]
-    sha256 = "d4a10032d7c80ea0aa37139e703df8b7556eed2a184d4b34c285d521d2565979"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a645e8e78384212d5de3c3f188f949e09758ecadfa2ee88e182dc95368c3aefe"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.i686-w64-mingw32-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -117,7 +117,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "2f59aa8b7080c8c22ddbd5af925e656007843491dddac2c4dcf540c58d7e686d"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
@@ -128,7 +128,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "50e8909742ad9895efb325eed9f52b890a94d476e868f1f16ec29c96b77543e1"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.riscv64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "6d1ea4b3967e5032cd2c0a3007972574c23e241b"
@@ -137,7 +137,7 @@ os = "macos"
 
     [[LLVMDowngrader.download]]
     sha256 = "3ed10780df06b227809db10e80ea4b2c0cba9850ff8ef61e4033ea2882234f0a"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.x86_64-apple-darwin.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -148,7 +148,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "8962fc2bb31061154f03f7169783b2159bd129cc02b84d2eaadf378cfc273b08"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -159,7 +159,7 @@ os = "linux"
 
     [[LLVMDowngrader.download]]
     sha256 = "2b5f977e8f7095e2d72064ccacad141a767a6ecbcb271afb233e973fd68c0c9f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.x86_64-linux-musl-cxx11.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 git-tree-sha1 = "4b3162dc3fc7cef9f7805bc30e6b621a1ef8672f"
@@ -168,14 +168,14 @@ os = "freebsd"
 
     [[LLVMDowngrader.download]]
     sha256 = "e6f51ff2880dd39842597cab351fbb0162f01e7203a3690198b7af72e0e1e8b5"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.x86_64-unknown-freebsd.tar.gz"
 [[LLVMDowngrader]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6687bee1af3d65e571d313cae692f18eaf80a6b8"
+git-tree-sha1 = "fb6c8f1559b63da345a0192065372cffdabc9b14"
 lazy = true
 os = "windows"
 
     [[LLVMDowngrader.download]]
-    sha256 = "d51a9aebf6a9f8ddcc183b553cfa3beedd784893a619f5991af8cfd52e50d0d2"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+0/LLVMDowngrader.v0.10.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b60a3329f25e212c29aaf848aaa5a91560c27786e7313be7aec225c57306955f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMDowngrader_jll.jl/releases/download/LLVMDowngrader-v0.10.0+1/LLVMDowngrader.v0.10.0.x86_64-w64-mingw32-cxx11.tar.gz"
